@@ -1,13 +1,13 @@
 {
-    "name": "wilsonglasser/laravel-chatapi-whatsapp",
+    "name": "douglasroos/laravel-chatapi-whatsapp",
     "description": "Send WhatsApp messages with Chat API",
-    "homepage": "https://github.com/wilsonglasser/laravel-chatapi-whatsapp",
+    "homepage": "https://github.com/douglasroos/laravel-chatapi-whatsapp",
     "license": "MIT",
     "authors": [
         {
-            "name": "Wilson Glasser",
-            "email": "wilsonglasser@gmail.com",
-            "homepage": "https://github.com/wilsonglasser/",
+            "name": "Douglas Roos",
+            "email": "douglasroos2@gmail.com",
+            "homepage": "https://github.com/douglasroos/",
             "role": "Developer"
         }
     ],
